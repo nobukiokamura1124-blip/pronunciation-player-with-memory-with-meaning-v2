@@ -1,0 +1,5 @@
+streamlit
+gtts
+supabase>=2.0.0
+requests
+deep-translator
